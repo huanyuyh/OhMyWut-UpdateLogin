@@ -1,0 +1,2 @@
+# OhMyWut-UpdateLogin
+武汉理工大学的智慧理工大登录方式已经更新，OhMyWut那个已经用不了，所以给OhMyWut那个项目做了一个新的登录方式。
